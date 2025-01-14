@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">GymNotes</string>
+    <string name="hint_name">Название упражнения</string>
+    <string name="hint_description">Описание упражнения</string>
+    <string name="button_save">Сохранить</string>
+    <string name="button_cancel">Отмена</string>
+    <string name="error_empty_name">Введите название упражнения</string>
+    <string name="error_empty_description">Введите описание упражнения</string>
+</resources>
